@@ -2,3 +2,6 @@
 	path = external/MacroPlacement
 	url = https://github.com/partcleda/MacroPlacement.git
 	branch = fix-scientific-notation-parsing
+[submodule "external/DREAMPlace"]
+	path = external/DREAMPlace
+	url = https://github.com/limbo018/DREAMPlace.git
