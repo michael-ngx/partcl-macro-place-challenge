@@ -5,3 +5,4 @@
 [submodule "external/DREAMPlace"]
 	path = external/DREAMPlace
 	url = https://github.com/limbo018/DREAMPlace.git
+	branch = master
